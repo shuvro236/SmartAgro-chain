@@ -175,7 +175,7 @@ const contractAddress = "YOUR_CONTRACT_ADDRESS";
 Paste ABI into:
 
 ```
-frontend/AgroChain.json
+const abi = [YOUR_ABI];
 ```
 
 ---
