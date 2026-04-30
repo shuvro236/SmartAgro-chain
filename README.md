@@ -10,7 +10,7 @@
 
 ## 🚀 Overview
 
-**SmartAgroChain** is a decentralized agricultural marketplace that eliminates intermediaries and ensures **fair pricing, transparency, and secure transactions** between farmers, retailers, and community validators using Ethereum smart contracts and Web3.js.
+**SmartAgroChain** is a decentralized agricultural marketplace that eliminates intermediaries and ensures **fair pricing, transparency and secure transactions** between farmers, retailers and community validators using Ethereum smart contracts and Web3.js.
 
 The system introduces a **trustless auction + community approval mechanism** to guarantee fairness in agricultural trade.
 
