@@ -153,14 +153,39 @@ smartagrochain/
 
 ---
 
-## 🧪 How to Run
+## 🧪 How to Run 
 
-### 1. Deploy Smart Contracts
+### 1. Start Ganache
+- Open **Ganache GUI** OR run CLI:
+```bash
+ganache
+```
 
-- Open [Remix IDE](https://remix.ethereum.org/)  
-- Compile all Solidity files  
-- Deploy using MetaMask (Sepolia testnet recommended)  
-- Copy deployed contract address  
+- Copy:
+  - RPC URL (usually `http://127.0.0.1:7545`)
+  - Accounts + Private Keys
+
+---
+
+### 2. Deploy Smart Contracts
+
+- Open **Remix IDE**
+- Compile all `.sol` files
+- Connect MetaMask → Ganache network
+- Deploy contracts
+- Copy deployed contract address
+
+---
+
+### 3. Configure MetaMask
+
+- Add network:
+```
+RPC URL: http://127.0.0.1:7545
+Chain ID: 1337 (or 5777 depending on Ganache)
+```
+
+- Import Ganache account using private key
 
 ---
 
