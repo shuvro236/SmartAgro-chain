@@ -10,7 +10,7 @@
 
 ## My Project Document
 
-[👀 View the PDF](pdf/agrochain.pdf)
+[👀 View the paper](pdf/Fydp_2_Conference__-1.png)
 
 ## 🚀 Overview
 
